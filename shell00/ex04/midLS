@@ -1,0 +1,20 @@
+
+midLS, ex04/, ex03/, ex02/, ex01/, ex00/, PLAY_ME.webloc
+
+./ex04:
+
+./ex03:
+id_rsa_pub, id_rsa_pub.pub
+
+./ex02:
+exo2.tar, test3, test5, test4, test2/, test0/, test6, test1
+
+./ex02/test2:
+
+./ex02/test0:
+
+./ex01:
+testShell00.tar
+
+./ex00:
+z
